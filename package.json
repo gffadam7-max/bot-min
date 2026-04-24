@@ -1,13 +1,13 @@
 {
   "name": "mc-aternos-24h",
   "version": "1.0.0",
-  "description": "Bot Minecraft pour Aternos 26.1.2",
+  "description": "Bot Minecraft pour Aternos",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "mineflayer": "latest"
+    "mineflayer": "^4.20.0"
   },
   "engines": {
     "node": ">=18.x"
